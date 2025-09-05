@@ -1,0 +1,53 @@
+.ant-modal-mask {
+  z-index: 99998 !important;
+}
+
+.ant-modal-wrap {
+  z-index: 99999 !important;
+}
+
+.ant-radio-wrapper {
+  padding: 8px 0;
+}
+
+.ant-form-item-label {
+  padding-bottom: 0 !important;
+}
+
+.modal-form-dk .ant-modal-title {
+  text-align: center;
+}
+
+.modal-form-dk-title {
+  font-size: 16px;
+  font-weight: 700;
+  padding: 4px 0 8px;
+  text-align: center;
+}
+
+.form-dk {
+  margin-top: 8px;
+}
+
+.form-dk .form-dk-item {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.form-dk .form-dk-item span {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.form-dk .form-dk-item span i {
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 4px;
+  transform: translateY(-3px);
+}
+
+.form-dk-item .radio-item {
+  display: flex;
+  align-items: center;
+}

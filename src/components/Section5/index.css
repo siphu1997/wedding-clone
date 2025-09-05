@@ -1,0 +1,114 @@
+#w-zxnpsz1k {
+  margin-top: 16px;
+}
+
+#w-tlcpmw3z .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+  width: 100%;
+  aspect-ratio: 423 / 630;
+}
+
+#w-tlcpmw3z .image-background {
+  inset: 0px;
+  border-radius: 8px;
+  background: center center / cover no-repeat scroll content-box url('/assets/gallery10.jpg')
+    border-box;
+  --type: 0;
+}
+
+#w-qayyimzr {
+  inset: 0px;
+}
+
+#w-qayyimzr .rectangle-css {
+  border-color: rgba(0, 95, 188, 0.17);
+  border-style: solid;
+  background: rgba(255, 226, 249, 0.31);
+
+  display: flex;
+  align-items: center;
+}
+
+#w-tpds7h8m {
+  width: 100%;
+}
+
+#w-tpds7h8m .rectangle-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  background: rgba(255, 240, 252, 0.61);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#w-cs0sujoj {
+  width: 100%;
+  height: 128px;
+}
+
+#w-cs0sujoj.animation {
+  transform: perspective(1000px);
+}
+
+#w-cs0sujoj .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+  inset: 0px;
+  filter: contrast(0%) grayscale(43%) hue-rotate(0deg) invert(0%) saturate(0%) sepia(0%)
+    opacity(100%) brightness(0%) blur(0px);
+}
+
+#w-cs0sujoj.animation .image-block-css {
+  animation-name: pulse;
+  -webkit-animation-name: pulse;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-cs0sujoj .image-background {
+  inset: 0px;
+  background: center center / cover no-repeat scroll content-box border-box
+    url('/assets/thank-you.webp');
+  --type: 0;
+}
+
+#w-vtcoicaw {
+  bottom: 6px;
+  inset-x: 0px;
+  text-align: center;
+}
+
+#w-vtcoicaw.animation {
+  transform: perspective(1000px);
+}
+
+#w-vtcoicaw .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(255, 255, 255, 1);
+  filter: contrast(0%) grayscale(43%) hue-rotate(0deg) invert(0%) saturate(0%) sepia(0%)
+    opacity(100%) brightness(0%) blur(0px);
+  font-family: 'DancingScript', cursive;
+  font-size: 28px;
+  text-align: center;
+}
+
+#w-vtcoicaw.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}

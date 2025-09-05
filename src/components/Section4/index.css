@@ -1,0 +1,352 @@
+#w-1rvkvzbl {
+  width: 100%;
+  margin-top: 8px;
+}
+
+#w-wgm2 {
+  display: flex;
+  items-align: center;
+}
+
+#w-wg2v6szx {
+  flex: none;
+}
+
+#w-wg2v6szx.animation {
+  transform: perspective(1000px);
+}
+
+#w-wg2v6szx .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 50, 99, 1);
+  font-family: 'Ephesis', sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+#w-wg2v6szx.animation .text-block-css {
+  animation-name: zoomIn;
+  -webkit-animation-name: zoomIn;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-m2u5vui2 {
+  flex: 1;
+}
+
+#w-m2u5vui2.animation {
+  transform: perspective(1000px);
+}
+
+#w-m2u5vui2 .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+  position: absolute;
+}
+
+#w-m2u5vui2.animation .image-block-css {
+  animation-name: zoomIn;
+  -webkit-animation-name: zoomIn;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-m2u5vui2 .image-background {
+  width: 240px;
+  height: 52px;
+  top: 0px;
+  right: 0px;
+  background: center center / cover no-repeat scroll content-box border-box
+    url('/assets/duong-tim.webp');
+  --type: 0;
+}
+
+#w-gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  margin-top: 16px;
+}
+
+#w-8g8oqkog,
+#w-j4yxjpj5,
+#w-nipx3ydd,
+#w-zdf9,
+#w-rh658khn,
+#w-419bvvpv,
+#w-wgahrpz2,
+#w-b25110jf {
+  width: 50%;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+#w-8g8oqkog.animation {
+  transform: perspective(1000px);
+}
+
+#w-8g8oqkog .image-block-css,
+#w-j4yxjpj5 .image-block-css,
+#w-nipx3ydd .image-block-css,
+#w-rh658khn .image-block-css,
+#w-419bvvpv .image-block-css,
+#w-wgahrpz2 .image-block-css,
+#w-b25110jf .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+  width: 100%;
+  aspect-ratio: 187 / 280;
+}
+
+#w-8g8oqkog.animation .image-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-8g8oqkog .image-background,
+#w-j4yxjpj5 .image-background,
+#w-nipx3ydd .image-background,
+#w-zdqndnfo .image-background,
+#w-f955xnqd .image-background,
+#w-rh658khn .image-background,
+#w-419bvvpv .image-background,
+#w-wgahrpz2 .image-background,
+#w-b25110jf .image-background {
+  inset: 0px;
+  border-radius: 8px;
+  --type: 0;
+}
+
+#w-8g8oqkog .image-background {
+  background: center center / cover no-repeat scroll content-box url('/assets/gallery1.jpg')
+    border-box;
+}
+
+#w-j4yxjpj5,
+#w-rh658khn,
+#w-419bvvpv,
+#w-wgahrpz2,
+#w-b25110jf {
+  margin-top: 16px;
+}
+
+#w-j4yxjpj5.animation {
+  transform: perspective(1000px);
+}
+
+#w-j4yxjpj5.animation .image-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-j4yxjpj5 .image-background {
+  background: center center / cover no-repeat scroll content-box url('/assets/gallery2.jpg')
+    border-box;
+}
+
+#w-nipx3ydd {
+  margin-top: 8px;
+}
+
+#w-nipx3ydd.animation {
+  transform: perspective(1000px);
+}
+
+#w-nipx3ydd.animation .image-block-css {
+  animation-name: fadeInLeft;
+  -webkit-animation-name: fadeInLeft;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-nipx3ydd .image-background {
+  background: center center / cover no-repeat scroll content-box url('/assets/gallery3.jpg')
+    border-box;
+}
+
+#w-zdf9 {
+  padding: 0;
+  aspect-ratio: 6 / 8.5;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#w-zdqndnfo,
+#w-f955xnqd {
+  width: 100%;
+  padding: 0 8px;
+  margin-top: 12px;
+}
+
+#w-zdqndnfo.animation {
+  transform: perspective(1000px);
+}
+
+#w-zdqndnfo .image-block-css,
+#w-f955xnqd .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+  width: 100%;
+  aspect-ratio: 180 / 120;
+}
+
+#w-zdqndnfo.animation .image-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-zdqndnfo .image-background {
+  background: center center / cover no-repeat scroll content-box border-box
+    url('/assets/gallery4.jpg');
+}
+
+#w-f955xnqd.animation {
+  transform: perspective(1000px);
+}
+
+#w-f955xnqd.animation .image-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-f955xnqd .image-background {
+  background: center center / cover no-repeat content-box border-box url('/assets/gallery5.jpg');
+}
+
+#w-rh658khn.animation {
+  transform: perspective(1000px);
+}
+
+#w-rh658khn .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+}
+
+#w-rh658khn.animation .image-block-css {
+  animation-name: fadeInLeft;
+  -webkit-animation-name: fadeInLeft;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-rh658khn .image-background {
+  background: center center / cover no-repeat content-box border-box url('/assets/gallery6.jpg');
+}
+
+#w-419bvvpv.animation {
+  transform: perspective(1000px);
+}
+
+#w-419bvvpv .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+}
+
+#w-419bvvpv.animation .image-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-419bvvpv .image-background {
+  background: center center / cover no-repeat content-box border-box url('/assets/gallery7.jpg');
+}
+
+#w-wgahrpz2 .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+}
+
+#w-wgahrpz2.animation .image-block-css {
+  animation-name: fadeInLeft;
+  -webkit-animation-name: fadeInLeft;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-wgahrpz2 .image-background {
+  background: center center / cover no-repeat content-box url('/assets/gallery8.jpg') border-box;
+}
+
+#w-b25110jf.animation {
+  transform: perspective(1000px);
+}
+
+#w-b25110jf .image-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 0px;
+}
+
+#w-b25110jf.animation .image-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-b25110jf .image-background {
+  background: center center / cover no-repeat content-box url('/assets/gallery9.jpg') border-box;
+}

@@ -1,0 +1,354 @@
+#w-f9da4ivv .section-background {
+  background: rgba(255, 255, 255, 0.09);
+  --type: 0;
+}
+
+#w-gvymydtl {
+  width: 100%;
+  padding: 24px 0;
+  text-align: center;
+}
+
+#w-gvymydtl.animation {
+  transform: perspective(1000px);
+}
+
+#w-gvymydtl .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Ephesis', sans-serif;
+  font-size: 24px;
+  line-height: 1;
+  text-align: center;
+}
+
+#w-gvymydtl.animation .text-block-css {
+  animation-name: fadeIn;
+  -webkit-animation-name: fadeIn;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+.w-haiho {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#w-jpfscebj,
+#w-aoqt2m6v87 {
+  width: 56%;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#w-jpfscebj {
+  align-items: end;
+}
+
+#w-jp9nko93,
+#w-qtuwe23y {
+  width: 44%;
+  aspect-ratio: 21 / 32;
+}
+
+#w-jp9nko93 {
+  left: 0;
+}
+
+#w-qtuwe23y {
+  right: 0;
+}
+
+#w-jp9nko93.animation {
+  transform: perspective(1000px);
+}
+
+#w-jp9nko93 .image-block-css {
+  border-color: rgba(255, 226, 249, 1);
+  background: rgba(255, 226, 249, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 8px;
+  z-index: null;
+}
+
+#w-jp9nko93.animation .image-block-css {
+  animation-name: fadeInLeft;
+  -webkit-animation-name: fadeInLeft;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 2.5s;
+  -webkit-animation-duration: 2.5s;
+}
+
+#w-jp9nko93 .image-background {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background: center center / cover no-repeat content-box border-box url('/assets/chu-re.jpg');
+  --type: 0;
+}
+
+#w-nha-trai,
+#w-fdofy5ct,
+#w-ce64hib5,
+#w-bjrya7hd,
+#w-nha-gai,
+#w-87zm1auo,
+#w-2mf2xey3,
+#w-6v7eiub0 {
+  width: 100%;
+  text-align: center;
+}
+
+#w-nha-trai.animation {
+  transform: perspective(1000px);
+}
+
+#w-nha-trai .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  light-height: 1;
+  text-align: center;
+}
+
+#w-nha-trai.animation .text-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-fdofy5ct,
+#w-87zm1auo {
+  margin-top: 8px;
+}
+
+#w-fdofy5ct.animation {
+  transform: perspective(1000px);
+}
+
+#w-fdofy5ct .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  text-align: center;
+}
+
+#w-fdofy5ct.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-ce64hib5,
+#w-2mf2xey3 {
+  margin-top: 24px;
+}
+
+#w-ce64hib5.animation {
+  transform: perspective(1000px);
+}
+
+#w-ce64hib5 .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-size: 15px;
+  text-align: center;
+}
+
+#w-ce64hib5.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-bjrya7hd.animation {
+  transform: perspective(1000px);
+}
+
+#w-bjrya7hd .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Ephesis', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+#w-bjrya7hd.animation .text-block-css {
+  animation-name: fadeInDown;
+  -webkit-animation-name: fadeInDown;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-nha-gai.animation {
+  transform: perspective(1000px);
+}
+
+#w-nha-gai .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  light-height: 1;
+  text-align: center;
+}
+
+#w-nha-gai.animation .text-block-css {
+  animation-name: fadeInLeft;
+  -webkit-animation-name: fadeInLeft;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-87zm1auo.animation {
+  transform: perspective(1000px);
+}
+
+#w-87zm1auo .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  text-align: center;
+}
+
+#w-87zm1auo.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-2mf2xey3.animation {
+  transform: perspective(1000px);
+}
+
+#w-2mf2xey3 .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-size: 15px;
+  text-align: center;
+}
+
+#w-2mf2xey3.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#w-6v7eiub0.animation {
+  transform: perspective(1000px);
+}
+
+#w-6v7eiub0 .text-block-css {
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Ephesis', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+#w-6v7eiub0.animation .text-block-css {
+  animation-name: fadeInDown;
+  -webkit-animation-name: fadeInDown;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 4s;
+  -webkit-animation-duration: 4s;
+}
+
+#w-qtuwe23y.animation {
+  transform: perspective(1000px);
+}
+
+#w-qtuwe23y > div {
+  transform: rotateY(0deg) perspective(1000px);
+}
+
+#w-qtuwe23y .image-block-css {
+  border-color: rgba(255, 226, 249, 1);
+  background: rgba(255, 226, 249, 1);
+  border-style: solid;
+  border-width: 6px;
+  border-radius: 8px;
+  z-index: null;
+}
+
+#w-qtuwe23y.animation .image-block-css {
+  animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 2.5s;
+  -webkit-animation-duration: 2.5s;
+}
+
+#w-qtuwe23y .image-background {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background: center center / cover no-repeat content-box border-box url('/assets/co-dau.jpg');
+  --type: 0;
+}

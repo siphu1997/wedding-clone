@@ -1,0 +1,178 @@
+#w-inj6bm40 {
+  width: 100%;
+  padding: 40px 0;
+  margin-top: 16px;
+  border-radius: 8px;
+  background-color: rgb(241, 243, 244);
+}
+
+#w-inj6bm40.animation {
+  transform: perspective(1000px);
+}
+
+#w-inj6bm40.animation .text-block-css {
+  animation-name: fadeInUp;
+  -webkit-animation-name: fadeInUp;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  animation-duration: 3s;
+  -webkit-animation-duration: 3s;
+}
+
+#PARAGRAPH441 {
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#FORM344,
+#HEADLINE443,
+#HEADLINE444 {
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 2.2;
+  color: rgb(168, 6, 6);
+  text-align: center;
+}
+
+#PARAGRAPH442 {
+  width: 100%;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
+  padding: 0 4px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#HEADLINE439 {
+  width: 100%;
+  font-weight: 400;
+  font-size: 40px;
+  font-family: 'Ephesis', sans-serif;
+  line-height: 2.5;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#PARAGRAPH464,
+#PARAGRAPH466,
+#PARAGRAPH469,
+#PARAGRAPH471 {
+  width: 100%;
+  font-family: Quicksand, sans-serif;
+  font-weight: bold;
+  line-height: 1.6;
+  color: rgb(205, 7, 7);
+  text-align: center;
+}
+
+#PARAGRAPH464,
+#PARAGRAPH469 {
+  font-size: 18px;
+}
+
+#PARAGRAPH465,
+#PARAGRAPH467,
+#PARAGRAPH468,
+#PARAGRAPH470,
+#PARAGRAPH472,
+#PARAGRAPH473 {
+  width: 100%;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#PARAGRAPH465,
+#PARAGRAPH470,
+#PARAGRAPH472 {
+  font-size: 16px;
+}
+
+#PARAGRAPH465,
+#PARAGRAPH470,
+#PARAGRAPH472,
+#PARAGRAPH467 {
+  font-size: 14px;
+}
+
+#PARAGRAPH468,
+#PARAGRAPH473 {
+  font-size: 14px;
+  padding: 0 8px;
+}
+
+#PARAGRAPH466,
+#PARAGRAPH471 {
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+#PARAGRAPH467 {
+  font-style: italic;
+}
+
+#IMAGE411 {
+  width: 60px;
+  height: 60px;
+  margin: 16px auto;
+}
+
+#IMAGE411 .image-background {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background: center center / cover no-repeat content-box border-box url(/assets/chu-hy.png);
+  --type: 0;
+}
+
+#HEADLINE440 {
+  width: 100%;
+  font-size: 20px;
+  font-family: 'DancingScript', cursive;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 0 32px;
+  margin-top: 16px;
+}
+
+.s3-button {
+  --ppblur: #FAE6ED;
+  --pp: #E685A9;
+  border: 0;
+  transition: 0.5s;
+  width: 200px;
+  padding: 12px 0;
+  font-size: 14px;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: var(--ppblur);
+  color: var(--pp);
+
+  &.--border {
+    border: 2px solid transparent;
+    &:hover {
+      border-color: var(--pp);
+      background: transparent;
+    }
+  }
+}

@@ -1,0 +1,59 @@
+#theWeddingDay {
+  width: 210px;
+  height: 210px;
+  top: 40px;
+  left: 40px;
+  opacity: 0.4;
+  background: center center / cover no-repeat scroll content-box url('/assets/the-wedding.png')
+    border-box;
+  --type: 0;
+}
+
+.img-wedding {
+  width: 210px;
+  height: 210px;
+  opacity: 0.7;
+  background: center center / cover no-repeat scroll content-box url('/assets/wedding.png')
+    border-box;
+  --type: 0;
+}
+
+#weddingTop {
+  top: 40px;
+  right: 40px;
+}
+
+#weddingBottom {
+  left: 40px;
+  bottom: 40px;
+}
+
+#ring {
+  width: 160px;
+  height: 160px;
+  right: 88px;
+  bottom: 60px;
+  opacity: 0.2;
+  background: center center / cover no-repeat scroll content-box url('/assets/ring.svg') border-box;
+  --type: 0;
+}
+
+#t-hpw {
+  right: 80px;
+  bottom: 120px;
+  opacity: 0.4;
+  font-size: 36px;
+  font-family: 'Ephesis', sans-serif;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+}
+
+#t-cd-cr {
+  right: 32px;
+  bottom: 80px;
+  opacity: 0.4;
+  font-size: 36px;
+  font-family: 'Ephesis', sans-serif;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+}
